@@ -1,0 +1,1 @@
+Este reto forma parte del programa de aprendizaje y está diseñado para poner en práctica los conocimientos adquiridos en JavaScript. A través de este desafío, se busca poner en practica los conceptos clave como variables, funciones, estructuras de control y manipulación del DOM, aplicándolos en un ejercicio práctico y dinámico.
